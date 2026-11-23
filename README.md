@@ -1,6 +1,6 @@
 ### Технический бекграунд:
 - Основной язык: PHP 8.x, JS/TypeScript, Rust (Tokio, async), (ООП, DRY, SOLID, DDD, Clean Architecture, паттерны проектирования, REST/JSON API).
-- Фреймворки и инструменты: Symfony, Laravel хорошо знаю внутреннее устройство, DI, очереди, события), Composer.
+- Фреймворки и инструменты: Symfony, Laravel (DI, очереди, события и т.д.), Composer.
 - Базы данных и очереди: PostgreSQL, MySQL (оптимизация запросов, репликация, connection pooling), Redis, Memcached, RabbitMQ, Centrigugo (ws).
 - Тестирование: PHPUnit, PHPStan, PHP-CS-Fixer, CI/CD.
 - Инфраструктура и DevOps: Docker, Linux (Ubuntu/Debian), Nginx Unit (оптимизация для PHP), Git, Bash. 
